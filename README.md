@@ -9,10 +9,10 @@ _this is italic_
 This is a <sub>subscript</sub> text
 	This is a <sup>superscript</sup> text
  This is an <ins>underlined</ins> text
- > this text is a quote
-this text is not a quote
+ 
 some basic Git commands are:
 ```
 git puch
 git commit
 ```
+`#0969DA`	
